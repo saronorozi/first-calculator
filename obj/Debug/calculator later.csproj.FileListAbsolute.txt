@@ -1,0 +1,27 @@
+C:\Users\DELL\Desktop\project\calculator later\calculator later\bin\Debug\calculator later.exe.config
+C:\Users\DELL\Desktop\project\calculator later\calculator later\obj\Debug\calculator later.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Desktop\project\calculator later\calculator later\obj\Debug\calculator_later.Form1.resources
+C:\Users\DELL\Desktop\project\calculator later\calculator later\obj\Debug\calculator_later.Properties.Resources.resources
+C:\Users\DELL\Desktop\project\calculator later\calculator later\obj\Debug\calculator later.csproj.GenerateResource.Cache
+C:\Users\DELL\Desktop\project\calculator later\calculator later\bin\Debug\calculator later.exe
+C:\Users\DELL\Desktop\project\calculator later\calculator later\bin\Debug\calculator later.pdb
+C:\Users\DELL\Desktop\project\calculator later\calculator later\obj\Debug\calculator later.exe
+C:\Users\DELL\Desktop\project\calculator later\calculator later\obj\Debug\calculator later.pdb
+D:\projects\project\calculator later\calculator later\bin\Debug\calculator later.exe.config
+D:\projects\project\calculator later\calculator later\obj\Debug\calculator later.pdb
+D:\projects\project\calculator later\calculator later\bin\Debug\calculator later.exe
+D:\projects\project\calculator later\calculator later\bin\Debug\calculator later.pdb
+D:\projects\project\calculator later\calculator later\obj\Debug\calculator later.csprojResolveAssemblyReference.cache
+D:\projects\project\calculator later\calculator later\obj\Debug\calculator_later.Form1.resources
+D:\projects\project\calculator later\calculator later\obj\Debug\calculator_later.Properties.Resources.resources
+D:\projects\project\calculator later\calculator later\obj\Debug\calculator later.csproj.GenerateResource.Cache
+D:\projects\project\calculator later\calculator later\obj\Debug\calculator later.exe
+C:\Users\Saroo\Desktop\project\calculator later\calculator later\bin\Debug\calculator later.exe.config
+C:\Users\Saroo\Desktop\project\calculator later\calculator later\obj\Debug\calculator later.exe
+C:\Users\Saroo\Desktop\project\calculator later\calculator later\obj\Debug\calculator later.pdb
+C:\Users\Saroo\Desktop\project\calculator later\calculator later\bin\Debug\calculator later.exe
+C:\Users\Saroo\Desktop\project\calculator later\calculator later\bin\Debug\calculator later.pdb
+C:\Users\Saroo\Desktop\project\calculator later\calculator later\obj\Debug\calculator later.csprojResolveAssemblyReference.cache
+C:\Users\Saroo\Desktop\project\calculator later\calculator later\obj\Debug\calculator_later.Form1.resources
+C:\Users\Saroo\Desktop\project\calculator later\calculator later\obj\Debug\calculator_later.Properties.Resources.resources
+C:\Users\Saroo\Desktop\project\calculator later\calculator later\obj\Debug\calculator later.csproj.GenerateResource.Cache
